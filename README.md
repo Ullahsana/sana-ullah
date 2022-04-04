@@ -3,7 +3,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/­sana-ullah/sana1
+git clone https://github.com/­sanaullah/sana1
 
 cd sanaullah1
 
