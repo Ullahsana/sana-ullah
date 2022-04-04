@@ -3,10 +3,10 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/­sana-ullah/sana1
+git clone https://github.com/­ullah-sana/loggef
 
-cd sanaullah1
+cd loggef
 
-python sanaullah1.py
+python setup.py
 
-python sanaullah2.py
+python loggef.py
